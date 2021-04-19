@@ -1,6 +1,6 @@
 # IdeaPrax
 
-![](https://raw.githubusercontent.com/berkinceylan/WWDC20/master/Contents/Resources/header.png)
+![](https://raw.githubusercontent.com/berkinceylan/WWDC21/main/Resources/IdeaPrax_Header.png)
 
 # About
 
